@@ -121,5 +121,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-unni
 
 
 
-----
+<!-- ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ -->
