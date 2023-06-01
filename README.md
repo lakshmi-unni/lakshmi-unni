@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg" align="center" style="width: 100%" />
-</div>  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> 
   
 
 ### <div align="center">I'm Lakshmi Unni,  front end Developer 👨‍💻 since 2022</div>  
