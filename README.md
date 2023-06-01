@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
     <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <imgsrc="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
 <!--    <img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/> -->
