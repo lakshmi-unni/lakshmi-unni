@@ -15,7 +15,7 @@ Hi! I'm Lakshmi Unni
 
 <br/>  
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw18CHGQy9pQBEbFofPdUHOP&ust=1686247276294000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD82uHesf8CFQAAAAAdAAAAABAE)" width="600" height="300"/>
 </div> 
   
 
