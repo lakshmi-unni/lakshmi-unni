@@ -15,7 +15,7 @@ Hi! I'm Lakshmi Unni
 
 <br/>  
 <div align="center">
-  <img src="https://images.app.goo.gl/pn7zwkfKPJwsp7m5A" width="600" height="300"/>
+  <img src="[https://images.app.goo.gl/pn7zwkfKPJwsp7m5A](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)" width="600" height="300"/>
 </div> 
   
 
