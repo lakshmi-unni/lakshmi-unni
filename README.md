@@ -52,17 +52,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img  src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
     <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
- 
-
-<img  src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
- 
-<img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components"  width="40" height="40"/>&nbsp;
- 
-<img  src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  width="40" height="40"/>&nbsp;
- 
-
-
-</div>
+ <img  src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+ <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components"  width="40" height="40"/>&nbsp;
+ <img  src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"  width="40" height="40"/>
+ </div>
 
 
 
