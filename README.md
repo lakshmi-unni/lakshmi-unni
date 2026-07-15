@@ -189,7 +189,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/LXb3EKWsInQAAAAi/coding-girl.gif" width="280"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY4ZmlwdDdyMjVlenA4Y3Y2NHYyMHllYnRmaWM5ZGZzZGR1b3R4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="280"/>
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
