@@ -113,21 +113,20 @@
 
 ---
 
-# 🤖 AI & Productivity Tools
+
+<h2 align="center">🤖 AI & Productivity Tools</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50"/>
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/anthropic" alt="Claude" width="50"/>
 
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="50"/>
 
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot"/>
+<img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="50"/>
 
-<img src="https://img.shields.io/badge/Perplexity-20B8CD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai"/>
+<img src="https://cdn.simpleicons.org/perplexity" alt="Perplexity" width="50"/>
 
 </p>
 
